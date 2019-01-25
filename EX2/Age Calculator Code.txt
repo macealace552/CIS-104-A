@@ -1,0 +1,9 @@
+// x is age in years, y is age in seconds
+integer x
+integer y
+Put "Enter your age in years." to output
+x = Get next input
+y = x*3153600
+Put "\n\n Your approximate age in seconds is " to output
+Put y to output
+Put "." to output
